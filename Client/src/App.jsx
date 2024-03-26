@@ -4,7 +4,7 @@ import {
   Route,
   RouterProvider,
 } from "react-router-dom";
-import { loader, Root, loader as rootLoader } from "./routes/Root";
+import { Root, loader as rootLoader } from "./routes/Root";
 import { ErrorPage } from "./ErrorPage";
 import Contact from "./routes/Contact";
 
